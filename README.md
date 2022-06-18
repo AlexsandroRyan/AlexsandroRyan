@@ -1,7 +1,5 @@
 ## Hello! I'm Alexsandro Ryan
 
-- 🔭 I’m currently changing career to fullstack
-- 🌱 I’m currently learning React with Typescript
 
 <div align="center">
   <a href="https://github.com/AlexsandroRyan">
