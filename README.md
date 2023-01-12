@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/AlexsandroRyan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexsandroRyan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroRyan&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src=""/>
+  <img height="180em" src=""/>
 </div>
   
 <div style="display: inline_block"><br>
