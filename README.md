@@ -1,11 +1,4 @@
 ## Hello! I'm Alexsandro Ryan
-
-
-<div align="center">
-  <a href="https://github.com/AlexsandroRyan">
-  <img height="180em" src=""/>
-  <img height="180em" src=""/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Alex-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
