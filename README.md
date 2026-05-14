@@ -1,22 +1,28 @@
-## Skills
-<div style="display: inline_block">
-      <img  align="left" alt="AlexsandroRyan-Java" height="40" width="40" src="https://github.com/user-attachments/assets/6951f6b3-156e-4475-bdf5-41d179c6a33b">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="left" alt="AlexsandroRyan" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img  align="left" alt="AlexsandroRyan-Java" height="40" width="40" src="https://github.com/user-attachments/assets/0a17d7b3-d1cb-49d7-9d8f-f9b7069a1b68">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img  align="left" alt="AlexsandroRyan-Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="left" alt="AlexsandroRyan-Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="left" alt="AlexsandroRyan-cpp" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+### Alexsandro Ryan — Product Engineer · AI-native
 
-<br/>
+I ship products end to end and orchestrate a fleet of coding agents in parallel to do it at multi-engineer pace.
 
-## Contact
-<a href="https://www.linkedin.com/in/AlexsandroRyan" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
+**Currently at Nubank, working fully AI-native.**
+
+```clojure
+{:role    :product-engineer
+ :stack   #{:clojure :typescript :react-native :datomic :aws}
+ :agents  :orchestrated
+ :ships   :small-and-finished}
+```
+
+#### Background
+
+- **4+ years** shipping production. Clojure on the backend, ClojureScript or TypeScript on the client, React Native for mobile.
+- **Vouch.io · 2023 – 2025** — helped ship the **Toyota Digital Key** mobile SDK and backend serving **300K+ active users** across Toyota America and Europe, and the **IdP integration** of a passwordless identity platform now used by enterprises to retire password flows.
+- **WestPoint Software Solutions · 2022 – 2023** — full-stack web (React, Next.js, TypeScript, Node, AWS).
+
+#### Open source
+
+- [**flaglog**](https://github.com/AlexsandroRyan/flaglog) — feature-flag service with a built-in audit log, backed by Datomic. Clojure + Ring + Reitit on AWS Fargate via Terraform.
+
+#### Find me
+
+- **Portfolio** · [alexsandroryan.github.io/portfolio](https://alexsandroryan.github.io/portfolio/)
+- **LinkedIn** · [linkedin.com/in/alexsandroryan](https://www.linkedin.com/in/alexsandroryan/)
+- **Email** · [alexsandrocosta855@gmail.com](mailto:alexsandrocosta855@gmail.com)
