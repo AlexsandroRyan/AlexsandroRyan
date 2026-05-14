@@ -13,7 +13,7 @@ I ship products end to end and orchestrate a fleet of coding agents in parallel 
 
 #### Background
 
-- **4+ years** shipping production. Clojure on the backend, ClojureScript or TypeScript on the client, React Native for mobile.
+- **3.5+ years** shipping production. Clojure on the backend, ClojureScript or TypeScript on the client, React Native for mobile.
 - **Vouch.io · 2023 – 2025** — helped ship the **Toyota Digital Key** mobile SDK and backend serving **300K+ active users** across Toyota America and Europe, and the **IdP integration** of a passwordless identity platform now used by enterprises to retire password flows.
 - **WestPoint Software Solutions · 2022 – 2023** — full-stack web (React, Next.js, TypeScript, Node, AWS).
 
