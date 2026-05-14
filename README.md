@@ -19,7 +19,7 @@ I ship products end to end and orchestrate a fleet of coding agents in parallel 
 
 #### Open source
 
-- [**flaglog**](https://github.com/AlexsandroRyan/flaglog) — feature-flag service with a built-in audit log, backed by Datomic. Clojure + Ring + Reitit on AWS Fargate via Terraform.
+- [**flaglog**](https://github.com/AlexsandroRyan/flaglog) — feature-flag service with a built-in audit log, backed by Datomic. Clojure + Ring + Reitit, deployable to AWS via Terraform.
 
 #### Find me
 
